@@ -10,7 +10,8 @@ Creación de cuenta de Github y Gitbook
     <p>Si no eres redirigido automáticamente, <a href="https://erika-ramirez-j.gitbook.io/gitbookwebpage/">haz clic aquí</a>.</p>
 </body>
 </html>
-
+git add index.html
+git commit -m url=https://erika-ramirez-j.gitbook.io/gitbookwebpage/"
 
 
 

@@ -1,3 +1,9 @@
+<html>
+<head>
+    <meta http-equiv="refresh" content="0; url=https://erika-ramirez-j.gitbook.io/gitbookwebpage/">
+</head>
+<body>
+
 ---
 description: Creación de cuenta de GitHub y GitBook
 cover: .gitbook/assets/github-cover.jpg
